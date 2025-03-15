@@ -62,7 +62,7 @@ The dataset includes house sale prices from May 2014 to May 2015. It has been pr
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OmarHani4306/real-estate-price-prediction.git
+   git clone https://github.com/OmarHani4306/House_Sales_in_King_Count_USA-Data-Analysis-with-python.git
    ```
 2. Install dependencies:
    ```bash
